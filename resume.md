@@ -11,7 +11,7 @@ Works with Markdown editors + Pandoc.
 <div>
 
 📍 Amritsar, Punjab, India  
-📧 your-email@example.com  GitHub: [OG-LORD-RK](https://github.com/OG-LORD-RK)  LinkedIn: [Harshjot Singh](https://www.linkedin.com/in/harshjot-singh-39b2803a4/)
+📧 your-email@example.com            GitHub: [OG-LORD-RK](https://github.com/OG-LORD-RK)              LinkedIn: [Harshjot Singh](https://www.linkedin.com/in/harshjot-singh-39b2803a4/)
 
 </div>
 
