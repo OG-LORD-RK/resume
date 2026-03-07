@@ -179,6 +179,3 @@ Example:
 ---
 
 <!-- Optional Footer -->
-
----
-Resume generated using Markdown and converted to PDF using Pandoc.
